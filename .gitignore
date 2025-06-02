@@ -52,4 +52,10 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-/.vs/WebScrapper/v16/.suo
+
+.vs/
+*.user
+*.suo
+bin/
+obj/
+/packages/
